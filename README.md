@@ -1,13 +1,17 @@
-<h1 align="center">Amr Omair</h1>
+
+<h1 align="center">Amro Omair</h1>
 
 <p align="center">
-  Computer Science graduate · Full-stack web developer<br>
+  Computer Science graduate · Software Engineer | Backend & AI Developer<br>
   Abu Dhabi, UAE
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/amr-omair-a20bb31a5">
+  <a href="https://linkedin.com/in/amro-omair-a20bb31a5">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:amr.omair@outlook.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/3mora-A?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
@@ -18,7 +22,7 @@
 
 ### About
 
-I build web applications end to end — Laravel and PHP on the server, React and TypeScript on the client — and I work with Python for computer vision and image processing. Most of what is here started as university and self-directed work: a sign-language recognition platform, a social network for student communities, a QR-code vending system, and an image-enhancement pipeline.
+I build web applications end to end — Laravel and PHP on the server, React and TypeScript on the client — and I work with Python for computer vision and image processing. Most of what is here started as university and self-directed work: a sign-language and emotion recognition platform, a social network for student communities, a QR-code vending system, and an image-enhancement pipeline.
 
 I care about projects that do something real rather than demos, and I like the part of the work where a model or a database schema meets an interface a person actually uses.
 
@@ -31,6 +35,7 @@ I care about projects that do something real rather than demos, and I like the p
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -43,11 +48,13 @@ I care about projects that do something real rather than demos, and I like the p
 
 | Project | What it is | Built with |
 |---|---|---|
-| **[Emosign](https://github.com/3mora-A/Emosign)** | Sign-language recognition and emotion analysis platform, with a web app in front of a machine-learning inference service | Laravel 12, React 19, FastAPI, MediaPipe, TensorFlow |
+| **[EmoSign](https://github.com/3mora-A/Emosign)** | Graduation project (PalUROP research award) — sign language and emotion recognition, with a web app in front of a machine-learning inference service | Laravel 12, React 19, FastAPI, MediaPipe, PyTorch |
 | **[Tawasul](https://github.com/3mora-A/tawasul)** | Social platform for university communities — feed, communities, follows, moderation and an admin dashboard | Laravel, Blade, Tailwind, MySQL |
-| **[Scanny](https://github.com/3mora-A/Scanny)** | QR-code vending machine app — scan a machine, top up a balance, buy items | Laravel, Blade, MySQL |
+| **[Scanny](https://github.com/3mora-A/Scanny)** | QR-code vending machine app modelled as a Deterministic Finite Automaton | Laravel, Blade, MySQL |
 | **[image-processing](https://github.com/3mora-A/image-processing)** | Pipeline that classifies degraded images and applies the matching enhancement, with a written report | Python, OpenCV, NumPy |
 
 ### Get in touch
 
-- LinkedIn — [amr-omair](https://linkedin.com/in/amr-omair-a20bb31a5)
+- LinkedIn — [amro-omair](https://linkedin.com/in/amro-omair-a20bb31a5)
+- Email — amr.omair@outlook.com
+- Location — Abu Dhabi, United Arab Emirates
